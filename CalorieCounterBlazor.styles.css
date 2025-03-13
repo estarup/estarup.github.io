@@ -96,8 +96,44 @@ main[b-96f8gttuzd] {
     flex-direction: column; /* Stacks items vertically */
     align-items: center; /* Centers the content */
     text-align: center; /* Centers text inside */
-    margin-top: 20px; /* Adds space from the top */
+    margin: 0 auto;
+
 }
+
+/* Adjust for smaller screens */
+@media (max-width: 768px) {
+    .container[b-y3ld7z8cxp] {
+        width: 95%;
+    }
+
+    .quick-grid[b-y3ld7z8cxp] {
+        font-size: 14px;
+        overflow-x: auto;
+    }
+
+    button[b-y3ld7z8cxp] {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    h3[b-y3ld7z8cxp] {
+        font-size: 18px;
+    }
+
+    .quick-grid[b-y3ld7z8cxp] {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    button[b-y3ld7z8cxp] {
+        width: 100%;
+    }
+}
+
 
 .header[b-y3ld7z8cxp] {
 

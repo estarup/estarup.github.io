@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "Ab1cJz+R",
+  "version": "VXqrpvMQ",
   "assets": [
     {
-      "hash": "sha256-4zsrkdpjrCOZBiXsdy2zKuayqGsIDbVXGQwrYnfa8sA=",
+      "hash": "sha256-MZSMNnr6ILqlXzx1q4DniU5NLornjjHgu5nByR3U0pI=",
       "url": "CalorieCounterBlazor.styles.css"
     },
     {
