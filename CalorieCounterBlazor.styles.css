@@ -78,20 +78,8 @@ main[b-96f8gttuzd] {
         padding-right: 1.5rem !important;
     }
 }
-/* /Pages/FoodList.razor.rz.scp.css */
-/* Fix height and enable scrolling */
-.grid[b-y3ld7z8cxp] {
-    display: flex;
-    justify-content: center; /* Centers horizontally */
-    align-items: flex-start; /* Keeps it at the top */
-    height: 100vh; /* Full screen height */
-    padding-top: 20px; /* Adds space from the top */
-    /*height: 16.5rem;*/
-    overflow-y: auto;
-    text-align: left;
-}
-
-.grid-container[b-y3ld7z8cxp] {
+/* /Pages/AddFood.razor.rz.scp.css */
+.addFood[b-4p4hw60bcu] {
     display: flex;
     flex-direction: column; /* Stacks items vertically */
     align-items: center; /* Centers the content */
@@ -99,44 +87,24 @@ main[b-96f8gttuzd] {
     margin: 0 auto;
 
 }
+/* /Pages/FoodList.razor.rz.scp.css */
+/* Fix height and enable scrolling */
+/*.grid {*/
+/*    display: flex;*/
+/*    justify-content: center; !* Centers horizontally *!*/
+/*    align-items: flex-start; !* Keeps it at the top *!*/
+/*    height: 100vh; !* Full screen height *!*/
+/*    padding-top: 20px; !* Adds space from the top *!*/
+/*    !*height: 16.5rem;*!*/
+/*    overflow-y: auto;*/
+/*    text-align: left;*/
+/*}*/
 
-/* Adjust for smaller screens */
-@media (max-width: 768px) {
-    .container[b-y3ld7z8cxp] {
-        width: 95%;
-    }
-
-    .quick-grid[b-y3ld7z8cxp] {
-        font-size: 14px;
-        overflow-x: auto;
-    }
-
-    button[b-y3ld7z8cxp] {
-        font-size: 14px;
-        padding: 8px;
-    }
-}
-
-/* Extra small screens */
-@media (max-width: 480px) {
-    h3[b-y3ld7z8cxp] {
-        font-size: 18px;
-    }
-
-    .quick-grid[b-y3ld7z8cxp] {
-        display: block;
-        width: 100%;
-        overflow-x: auto;
-    }
-
-    button[b-y3ld7z8cxp] {
-        width: 100%;
-    }
-}
-
-
-.header[b-y3ld7z8cxp] {
-
+.grid-container[b-y3ld7z8cxp] {
+    display: flex;
+    flex-direction: column; /* Stacks items vertically */
+    align-items: center; /* Centers the content */
+    text-align: center; /* Centers text inside */
 }
 
 .addButton[b-y3ld7z8cxp] {
@@ -146,8 +114,7 @@ main[b-96f8gttuzd] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    position: fixed;
-    right: -1px; 
+    border: 1px; 
 }
 
 .addButton:hover[b-y3ld7z8cxp] {
@@ -164,4 +131,12 @@ main[b-96f8gttuzd] {
 /* Subtle stripe effect */
 [b-y3ld7z8cxp] tr:nth-child(even) {
     background: rgba(255,255,255,0.4);
+}
+/* /Pages/Today.razor.rz.scp.css */
+.today[b-zk7rsa2rm0] {
+    display: flex;
+    flex-direction: column; /* Stacks items vertically */
+    align-items: center; /* Centers the content */
+    text-align: center; /* Centers text inside */
+    margin: 0 auto;
 }
