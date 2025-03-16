@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "2S6fw6n3",
+  "version": "ogZ3hd/+",
   "assets": [
     {
       "hash": "sha256-N5eeYGSn30NSzBOq+v0iihb9VBhO8mXv9/r7sOetMKs=",
@@ -18,8 +18,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-pva5HKxg2T4ICkII/xCouEjqnxl0vWiPzi806/SlYZY=",
-      "url": "_framework/CalorieCounterBlazor.yxeso9eo6s.wasm"
+      "hash": "sha256-I4NS1QbAUZJ1DC2bjIXlDnqydVEFKUbC6j4kUBgSyQk=",
+      "url": "_framework/CalorieCounterBlazor.vlhszibo2c.wasm"
     },
     {
       "hash": "sha256-oCteveJEvmv3N3UP8n2e/nHVgmc++GDANmRSc0XzMb0=",
@@ -278,7 +278,7 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-KJK5QN6GUJMa5C1CnKhXIw7gx2LwNxU28lTWhZENItY=",
+      "hash": "sha256-Roge23xkfpTGr0toJHxOiSRig6zdd6rxjqL0Sb8Fa8g=",
       "url": "_framework/blazor.boot.json"
     },
     {
