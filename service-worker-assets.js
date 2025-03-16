@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "5LydMLDk",
+  "version": "lMz7FhoT",
   "assets": [
     {
-      "hash": "sha256-EyEAIocxeTOkjQwtDQUcR8NSl2Kont6Brj41FvbNl4k=",
+      "hash": "sha256-N5eeYGSn30NSzBOq+v0iihb9VBhO8mXv9/r7sOetMKs=",
       "url": "CalorieCounterBlazor.styles.css"
     },
     {
@@ -18,8 +18,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-oIss74mg82t8rbg4FmDkZZKfjpo3i1MrTsMowS7Q4vY=",
-      "url": "_framework/CalorieCounterBlazor.oud2dvly3w.wasm"
+      "hash": "sha256-SzawYvt7LJtkGGLWmMLpm9gxOiABkBflV4D7dQyoYLo=",
+      "url": "_framework/CalorieCounterBlazor.zm9uyqakv7.wasm"
     },
     {
       "hash": "sha256-oCteveJEvmv3N3UP8n2e/nHVgmc++GDANmRSc0XzMb0=",
@@ -234,8 +234,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.Serialization.Primitives.douv2rdp0z.wasm"
     },
     {
-      "hash": "sha256-Sg0QP/DqQhk1H5jqAmMe9kD90AhqAhrV9yBexrk5i3U=",
-      "url": "_framework/System.Runtime.y2iz7cndoi.wasm"
+      "hash": "sha256-iHjERBH+alBxIwMyLzaCtfglOkYSihPbCTqp/EZ9Hdc=",
+      "url": "_framework/System.Runtime.gecnqou9ey.wasm"
     },
     {
       "hash": "sha256-glm7XI40reyMb40wNe+pO8hs+c+SvvkJzU0vWHuWj08=",
@@ -278,7 +278,7 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-E/TgdJrYO162yh0cUVcpNiAh1ZBpp7a+tsu7nZF9NIc=",
+      "hash": "sha256-OcKVrqMPZWrG7NgyDTKwchzo3LnEHoDkbRSjZoWsBJo=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -330,7 +330,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-oEaz7d+/B+afxOS+0owIMcj32ftYxIilOqo+21vxG5E=",
+      "hash": "sha256-j6he54YSrQx67xmMhp0C2rIMOZm7iX+rZYTX8kMTR5s=",
       "url": "index.html"
     },
     {

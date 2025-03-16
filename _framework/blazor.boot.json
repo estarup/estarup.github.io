@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "CalorieCounterBlazor",
   "resources": {
-    "hash": "sha256-3/0kCR96idrOWe1X9B9F5/fMRkV/J0uLU0WdfGseBSc=",
+    "hash": "sha256-W1E0r5CVnplGefgI6E/neTNzDw5NjjJPtshHBEq9QQI=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
-      "CalorieCounterBlazor.oud2dvly3w.wasm": "CalorieCounterBlazor.wasm",
+      "CalorieCounterBlazor.zm9uyqakv7.wasm": "CalorieCounterBlazor.wasm",
       "Microsoft.AspNetCore.Components.Forms.0gulbz7qk1.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.QuickGrid.cxh5x5b0m5.wasm": "Microsoft.AspNetCore.Components.QuickGrid.wasm",
       "Microsoft.AspNetCore.Components.gpnwq9afb0.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -58,7 +58,7 @@
       "System.Runtime.Numerics.jqwsqyy2r0.wasm": "System.Runtime.Numerics.wasm",
       "System.Runtime.Serialization.Formatters.ls3n11vcp7.wasm": "System.Runtime.Serialization.Formatters.wasm",
       "System.Runtime.Serialization.Primitives.douv2rdp0z.wasm": "System.Runtime.Serialization.Primitives.wasm",
-      "System.Runtime.y2iz7cndoi.wasm": "System.Runtime.wasm",
+      "System.Runtime.gecnqou9ey.wasm": "System.Runtime.wasm",
       "System.Security.Cryptography.qx0z7k0men.wasm": "System.Security.Cryptography.wasm",
       "System.Text.Encoding.Extensions.0ihy4dw5y3.wasm": "System.Text.Encoding.Extensions.wasm",
       "System.Text.Encodings.Web.yjewx7ynlb.wasm": "System.Text.Encodings.Web.wasm",
@@ -97,7 +97,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "CalorieCounterBlazor.oud2dvly3w.wasm": "sha256-oIss74mg82t8rbg4FmDkZZKfjpo3i1MrTsMowS7Q4vY=",
+      "CalorieCounterBlazor.zm9uyqakv7.wasm": "sha256-SzawYvt7LJtkGGLWmMLpm9gxOiABkBflV4D7dQyoYLo=",
       "Microsoft.AspNetCore.Components.Forms.0gulbz7qk1.wasm": "sha256-oCteveJEvmv3N3UP8n2e/nHVgmc++GDANmRSc0XzMb0=",
       "Microsoft.AspNetCore.Components.QuickGrid.cxh5x5b0m5.wasm": "sha256-AI+WhRT9voxvsCTDrPWz18yU3VHha30l1f7CRJIGvHY=",
       "Microsoft.AspNetCore.Components.gpnwq9afb0.wasm": "sha256-/EGnoyoFOk2PfhQfYR5OOYzsEL0k5P9XGvERkcv6ThY=",
@@ -149,7 +149,7 @@
       "System.Runtime.Numerics.jqwsqyy2r0.wasm": "sha256-u1agIQbuvVw5XwwuoASR//TYYctxqNYOaEDahwRpQDM=",
       "System.Runtime.Serialization.Formatters.ls3n11vcp7.wasm": "sha256-C1goi93J7Paa5scI5LX7Qwo/BCo8NdnMF50ufbO1xFg=",
       "System.Runtime.Serialization.Primitives.douv2rdp0z.wasm": "sha256-DUuNnmUXnxUPRTcZZu2Zlpwi7nCKH9VL+Nr1rIttRK0=",
-      "System.Runtime.y2iz7cndoi.wasm": "sha256-Sg0QP/DqQhk1H5jqAmMe9kD90AhqAhrV9yBexrk5i3U=",
+      "System.Runtime.gecnqou9ey.wasm": "sha256-iHjERBH+alBxIwMyLzaCtfglOkYSihPbCTqp/EZ9Hdc=",
       "System.Security.Cryptography.qx0z7k0men.wasm": "sha256-glm7XI40reyMb40wNe+pO8hs+c+SvvkJzU0vWHuWj08=",
       "System.Text.Encoding.Extensions.0ihy4dw5y3.wasm": "sha256-GKVw78ndgaxd6lZ5ifbDCunEJ0trxdhYProRgwAS+ws=",
       "System.Text.Encodings.Web.yjewx7ynlb.wasm": "sha256-ri5IusfFyIkUjHqd9C2j5KhwePbvKfCx401ZkHlLmPQ=",
