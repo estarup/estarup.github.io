@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "4iw4wNWS",
+  "version": "sHqpFJVO",
   "assets": [
     {
       "hash": "sha256-N5eeYGSn30NSzBOq+v0iihb9VBhO8mXv9/r7sOetMKs=",
@@ -18,8 +18,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-pwcI4bKSVy3zs8txu7j6tlmMqw2lBmDaiBlGfBv+gL0=",
-      "url": "_framework/CalorieCounterBlazor.hi4254gzsf.wasm"
+      "hash": "sha256-nPMu2GIaUxxdZI3oWQNYjxxO5AAekU/AKImsXEuQaEY=",
+      "url": "_framework/CalorieCounterBlazor.8dki4mqa7h.wasm"
     },
     {
       "hash": "sha256-BXz5RCSFBrg3KCDZD4lxgyWmw1YH6vUT0N/oIQdCKfA=",
@@ -282,7 +282,7 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-3HwNIwpWi6weHOC546amYVlABse6eIq+VnFncane6iY=",
+      "hash": "sha256-AWUF8ZZbGiVPv2cucGTVntz8R2BUSq1bKS2Dak7L4NE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -322,8 +322,40 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-HUFwRMImNq3GMLJ1CH0uAj3YGJQQYvgJr2U8wXktdxs=",
+      "hash": "sha256-B6+FSuWVdGCB6JghxbbGk2IEsnGpM/7DRKdtZ+dhCLo=",
+      "url": "data/foodNormal.csv"
+    },
+    {
+      "hash": "sha256-HNU0iGtLBTo2VCCbFPIBaDL4zk71saitckEpV3arPGw=",
+      "url": "data/foodNormal/Food-Table 1.csv"
+    },
+    {
+      "hash": "sha256-WrAcPoN3MDVwnMPaLEIeJ+SFc+52/SPSUJhIw0kYVBw=",
+      "url": "data/foodNormal/FoodGroup-Table 1.csv"
+    },
+    {
+      "hash": "sha256-B9+1lKJG1TVE6yqiRJEC80Px+IWdbWOcD6QzYBhmEGg=",
+      "url": "data/foodNormal/Parameter-Table 1.csv"
+    },
+    {
+      "hash": "sha256-oJRXRYhDcAM/gtylRxDAc3t8Vpwwd1hAywlHZahylCU=",
+      "url": "data/foodNormal/Readme-Table 1.csv"
+    },
+    {
+      "hash": "sha256-Wt1w5MGRWztiG3WR5NUZJrzY89QVLChC2f/HJtg9gC8=",
+      "url": "data/foodNormal/Source-Table 1.csv"
+    },
+    {
+      "hash": "sha256-gPV3y5Lv6wzSuv5Vow25c6L2DCIsVfOWvI7aOJJBobo=",
+      "url": "data/foodNormal/foods.csv"
+    },
+    {
+      "hash": "sha256-x9WeTOmiXW2SzAsntLw8rocI+AYFjfxkTdLn4QLHgwc=",
       "url": "data/foods.csv"
+    },
+    {
+      "hash": "sha256-0ynjpP/PBNAvBzSVP8sAIYbod9BaxRrGnm+lYUOfk/A=",
+      "url": "data/foods.numbers"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",

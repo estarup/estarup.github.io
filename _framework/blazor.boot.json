@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "CalorieCounterBlazor",
   "resources": {
-    "hash": "sha256-+1cJNTaGFpInSEWH9xdyZOyrQ+kNAmUwTL53/xnE/Tw=",
+    "hash": "sha256-AU7g+aQaCQJtkQ5uKeCmYGIvUxzBPbsSHGl4dRXoRXk=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
-      "CalorieCounterBlazor.hi4254gzsf.wasm": "CalorieCounterBlazor.wasm",
+      "CalorieCounterBlazor.8dki4mqa7h.wasm": "CalorieCounterBlazor.wasm",
       "CsvHelper.5c97h8cn3b.wasm": "CsvHelper.wasm",
       "Microsoft.AspNetCore.Components.Forms.0gulbz7qk1.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.QuickGrid.cxh5x5b0m5.wasm": "Microsoft.AspNetCore.Components.QuickGrid.wasm",
@@ -98,7 +98,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "CalorieCounterBlazor.hi4254gzsf.wasm": "sha256-pwcI4bKSVy3zs8txu7j6tlmMqw2lBmDaiBlGfBv+gL0=",
+      "CalorieCounterBlazor.8dki4mqa7h.wasm": "sha256-nPMu2GIaUxxdZI3oWQNYjxxO5AAekU/AKImsXEuQaEY=",
       "CsvHelper.5c97h8cn3b.wasm": "sha256-BXz5RCSFBrg3KCDZD4lxgyWmw1YH6vUT0N/oIQdCKfA=",
       "Microsoft.AspNetCore.Components.Forms.0gulbz7qk1.wasm": "sha256-oCteveJEvmv3N3UP8n2e/nHVgmc++GDANmRSc0XzMb0=",
       "Microsoft.AspNetCore.Components.QuickGrid.cxh5x5b0m5.wasm": "sha256-AI+WhRT9voxvsCTDrPWz18yU3VHha30l1f7CRJIGvHY=",
