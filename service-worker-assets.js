@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "wEgEWqs9",
+  "version": "Tk27LrVp",
   "assets": [
     {
       "hash": "sha256-SOis7dhWiPwCDOn5naWYj5NA/N/32OrFYqZeRUkXhEU=",
@@ -14,8 +14,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-WYKWw+T3rTbsbIc9WHL/0U8hbJZjQv18bCPbMAKUbhI=",
-      "url": "_framework/CalorieCounterBlazor.zdvft1lkz4.wasm"
+      "hash": "sha256-1LP7qkWOEaveKydY9moyCxQzZgVvr0z+DzpM/kkPFYw=",
+      "url": "_framework/CalorieCounterBlazor.k64sgaplgq.wasm"
     },
     {
       "hash": "sha256-BXz5RCSFBrg3KCDZD4lxgyWmw1YH6vUT0N/oIQdCKfA=",
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "_framework/TG.Blazor.IndexedDB.y0k6n7pzc8.wasm"
     },
     {
-      "hash": "sha256-wxCSsHMIm1v9L96tUDyAMjB20ndPjiL+092ky9qr+P0=",
+      "hash": "sha256-iBCwBaC3OVeMkhmq0gwbfJ15MxkR9kWd0SPANIrshnU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "data/foods.csv"
     },
     {
-      "hash": "sha256-Oz0b0G3ja6V5292L1E64rzeFNEY5CuP64qgx8klaut8=",
+      "hash": "sha256-VT7+R2R76DzKIsT07YymkpjKRan9zEYh9kt3E0WNUOk=",
       "url": "data/foods.json"
     },
     {

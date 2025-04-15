@@ -1,4 +1,28 @@
 {
+  "4": {
+    "Id": 4,
+    "Name": "Smoothie 50/50, 1 stk",
+    "Proteins": 4990.0,
+    "Carbs": 5960.0,
+    "Fats": 2400.0,
+    "CaloriesPer100Gram": 65400.0
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Protein iskaffe, 1 stk",
+    "Proteins": 2500.0,
+    "Carbs": 1100.0,
+    "Fats": 50.0,
+    "CaloriesPer100Gram": 14850.0
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Protein drikkeyoghurt, 1 stk",
+    "Proteins": 2150.0,
+    "Carbs": 4000.0,
+    "Fats": 250.0,
+    "CaloriesPer100Gram": 26850.0
+  },
   "1": {
     "Id": 1,
     "Name": "Musling, konserves",
@@ -22,30 +46,6 @@
     "Carbs": 0.0,
     "Fats": 2.7,
     "CaloriesPer100Gram": 98.0
-  },
-  "4": {
-    "Id": 4,
-    "Name": "Peberrod, rå",
-    "Proteins": 7.7,
-    "Carbs": 11.0,
-    "Fats": 0.7,
-    "CaloriesPer100Gram": 96.0
-  },
-  "5": {
-    "Id": 5,
-    "Name": "Hvidvin, sød",
-    "Proteins": 0.2,
-    "Carbs": 5.9,
-    "Fats": 0.0,
-    "CaloriesPer100Gram": 96.0
-  },
-  "6": {
-    "Id": 6,
-    "Name": "Hakket, med mycoprotein",
-    "Proteins": 9.9,
-    "Carbs": 0.7,
-    "Fats": 2.5,
-    "CaloriesPer100Gram": 95.0
   },
   "7": {
     "Id": 7,
