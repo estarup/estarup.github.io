@@ -79,6 +79,70 @@
     "Fats": 0.0,
     "CaloriesPer100Gram": 88.0
   },
+  "13": {
+    "Id": 13,
+    "Name": "Nutella",
+    "Proteins": 6.3,
+    "Carbs": 57.5,
+    "Fats": 30.9,
+    "CaloriesPer100Gram": 533.3
+  },
+  "14": {
+    "Id": 14,
+    "Name": "Cola",
+    "Proteins": 0.0,
+    "Carbs": 10.6,
+    "Fats": 0.0,
+    "CaloriesPer100Gram": 42.4
+  },
+  "15": {
+    "Id": 15,
+    "Name": "Hummus",
+    "Proteins": 11.0,
+    "Carbs": 5.9,
+    "Fats": 30.0,
+    "CaloriesPer100Gram": 337.6
+  },
+  "16": {
+    "Id": 16,
+    "Name": "Choko balls",
+    "Proteins": 7.8,
+    "Carbs": 75.0,
+    "Fats": 2.2,
+    "CaloriesPer100Gram": 351.0
+  },
+  "17": {
+    "Id": 17,
+    "Name": "Faxe Kondi",
+    "Proteins": 0.0,
+    "Carbs": 9.6,
+    "Fats": 0.0,
+    "CaloriesPer100Gram": 38.4
+  },
+  "18": {
+    "Id": 18,
+    "Name": "Guldbarre, lys",
+    "Proteins": 7.2,
+    "Carbs": 53.0,
+    "Fats": 35.0,
+    "CaloriesPer100Gram": 555.8
+  },
+  "19": {
+    "Id": 19,
+    "Name": "Ris, kogt",
+    "Proteins": 2.0,
+    "Carbs": 28.5,
+    "Fats": 0.0,
+    "CaloriesPer100Gram": 122.0
+  },
+  "21": {
+    "Id": 21,
+    "Name": "Peanutbutter",
+    "Proteins": 27.0,
+    "Carbs": 13.0,
+    "Fats": 50.0,
+    "CaloriesPer100Gram": 610.0
+  },
   "4": {
     "Id": 4,
     "Name": "Smoothie 50/50, 1 stk",
@@ -95,73 +159,9 @@
     "Fats": 1.3,
     "CaloriesPer100Gram": 94.0
   },
-  "13": {
-    "Id": 13,
-    "Name": "Nutella",
-    "Proteins": 6.3,
-    "Carbs": 57.5,
-    "Fats": 30.9,
-    "CaloriesPer100Gram": 533.3
-  },
-  "14": {
-    "Id": 14,
-    "Name": "Majs, kerner, konserves",
-    "Proteins": 3.1,
-    "Carbs": 16.1,
-    "Fats": 1.1,
-    "CaloriesPer100Gram": 92.0
-  },
-  "15": {
-    "Id": 15,
-    "Name": "Nyre, okse, rå",
-    "Proteins": 15.6,
-    "Carbs": 0.9,
-    "Fats": 2.8,
-    "CaloriesPer100Gram": 91.0
-  },
-  "16": {
-    "Id": 16,
-    "Name": "Ispind, limonade",
-    "Proteins": 0.5,
-    "Carbs": 17.7,
-    "Fats": 2.0,
-    "CaloriesPer100Gram": 91.0
-  },
-  "17": {
-    "Id": 17,
-    "Name": "Bomuldsfrøolie",
-    "Proteins": 0.0,
-    "Carbs": 0.0,
-    "Fats": 100.0,
-    "CaloriesPer100Gram": 900.0
-  },
-  "18": {
-    "Id": 18,
-    "Name": "Majskimolie",
-    "Proteins": 0.0,
-    "Carbs": 0.0,
-    "Fats": 100.0,
-    "CaloriesPer100Gram": 900.0
-  },
-  "19": {
-    "Id": 19,
-    "Name": "Vindruekerneolie",
-    "Proteins": 0.0,
-    "Carbs": 0.0,
-    "Fats": 100.0,
-    "CaloriesPer100Gram": 900.0
-  },
   "20": {
     "Id": 20,
     "Name": "Hvedekimolie",
-    "Proteins": 0.0,
-    "Carbs": 0.0,
-    "Fats": 100.0,
-    "CaloriesPer100Gram": 900.0
-  },
-  "21": {
-    "Id": 21,
-    "Name": "Tidselolie",
     "Proteins": 0.0,
     "Carbs": 0.0,
     "Fats": 100.0,
