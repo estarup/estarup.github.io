@@ -10734,5 +10734,13 @@
     "Carbs": 0.0,
     "Fats": 0.0,
     "CaloriesPer100Gram": 0.0
+  },
+  "1343": {
+    "Id": 1343,
+    "Name": "Kalorier, Calories, Manual",
+    "Proteins": 0.0,
+    "Carbs": 0.0,
+    "Fats": 0.0,
+    "CaloriesPer100Gram": 100.0
   }
 }
