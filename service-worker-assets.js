@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "/CsSh5n4",
+  "version": "V5R/pATq",
   "assets": [
     {
       "hash": "sha256-WdZgRMtvAiLcyI5wFSiiOE4wkQcfXQPARHg3EBkVxVg=",
@@ -14,8 +14,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-+TTIG/NY5QN2vSds1Y2s70ZqXlSNbWLu1hbcMkYECdU=",
-      "url": "_framework/CalorieCounterBlazor.l1kme2ddjr.wasm"
+      "hash": "sha256-HHoN5Ir8kguUD04WvJNBOuVSxpV9TGafqsYRWMtEloA=",
+      "url": "_framework/CalorieCounterBlazor.gtgvjj4j4z.wasm"
     },
     {
       "hash": "sha256-BXz5RCSFBrg3KCDZD4lxgyWmw1YH6vUT0N/oIQdCKfA=",
@@ -166,8 +166,8 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.Queryable.z1jysu8b0d.wasm"
     },
     {
-      "hash": "sha256-LptglMR1fLJtERFlmtYj2U9l5drxaZpyg5K6n9pmcmU=",
-      "url": "_framework/System.Linq.q5uq8ekxg6.wasm"
+      "hash": "sha256-JqvOFvEkxq5uxjChoJAdedtt7hPt9i5kOOOsjteqPZ0=",
+      "url": "_framework/System.Linq.qf3zvcwmoe.wasm"
     },
     {
       "hash": "sha256-i16Ph/eQsGMgYh3AMJonPrFFLtWhy/VHJ4q9NXpFrkE=",
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "_framework/TG.Blazor.IndexedDB.y0k6n7pzc8.wasm"
     },
     {
-      "hash": "sha256-a1xy7BrAjK5SBG0OpIr1i/QV4jRroJpdlGe/6aP5ArE=",
+      "hash": "sha256-1zB2iB6lApXjC22xxJnMcgodPyCkFSu65T01Ak0oFds=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -326,7 +326,7 @@ self.assetsManifest = {
       "url": "_framework/netstandard.3n3e9yvogw.wasm"
     },
     {
-      "hash": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=",
+      "hash": "sha256-nqMKCQlfebvf30+NDpDrm3JJfxl5ak+KOFslrfL6Fxw=",
       "url": "css/app.css"
     },
     {
