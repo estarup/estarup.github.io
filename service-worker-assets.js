@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "8KAmCrhr",
+  "version": "ZTIcJKn9",
   "assets": [
     {
       "hash": "sha256-WdZgRMtvAiLcyI5wFSiiOE4wkQcfXQPARHg3EBkVxVg=",
@@ -14,8 +14,8 @@ self.assetsManifest = {
       "url": "_framework/Blazored.LocalStorage.12n6dz54qr.wasm"
     },
     {
-      "hash": "sha256-+/Sn2YsBK/2oyP3u0fUBD+cuE7PCVqIzTgy6KCfFXI8=",
-      "url": "_framework/CalorieCounterBlazor.lwbbqocitp.wasm"
+      "hash": "sha256-YbL7CCZgf7mCpIUkoIAvh4n7NnLbv2N62aEhBYeO7gc=",
+      "url": "_framework/CalorieCounterBlazor.j324yae3m7.wasm"
     },
     {
       "hash": "sha256-BXz5RCSFBrg3KCDZD4lxgyWmw1YH6vUT0N/oIQdCKfA=",
@@ -30,8 +30,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.Forms.td9x62u7gn.wasm"
     },
     {
-      "hash": "sha256-mLdDBxjw7pO/WXpC1CGsUQI+D8qG+p1lC2AQFuJzC0U=",
-      "url": "_framework/Microsoft.AspNetCore.Components.Web.cf8ne072zr.wasm"
+      "hash": "sha256-HufWdNlU47DFXKkcbC2G+XLV452dobjpf43y3haPlew=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Web.u12a0oxm8s.wasm"
     },
     {
       "hash": "sha256-jpe/O0apNqld0EBC+ivtGoIEr5grmWtOjWy/2rKiXM8=",
@@ -214,8 +214,8 @@ self.assetsManifest = {
       "url": "_framework/System.Reflection.Primitives.38o8i1plka.wasm"
     },
     {
-      "hash": "sha256-/woXAggZCfnx9FPz93aLhwSjY0T3aq+V0Xho0etPCf8=",
-      "url": "_framework/System.Runtime.14r35hkoqp.wasm"
+      "hash": "sha256-P3eWUKuim04HZjgz0C7dyQGoGSe81R3FV7qOv2noRbY=",
+      "url": "_framework/System.Runtime.7mikkauw5z.wasm"
     },
     {
       "hash": "sha256-bAbPaONHne7R1hItHoY8/SYWlDb84JZQ1cxd1Y+tJn0=",
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "_framework/TG.Blazor.IndexedDB.y0k6n7pzc8.wasm"
     },
     {
-      "hash": "sha256-8J8zEog2nWucomKosa4YRre6WPEb9tWcTW85D4XKWuI=",
+      "hash": "sha256-1mVH7rQ9OEOl1Wk+ArwouSQA6oJ/cnOV6CQRCV3jnro=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -330,11 +330,15 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
+      "hash": "sha256-kxJcGYT9gQstjyrhDG0V8BMz2rIWz1xoYeKVUbcYOGI=",
+      "url": "data/foods copy.json"
+    },
+    {
       "hash": "sha256-qHC8E5Lk1sURb6+3asIALR8XMMkqbuac8UaPFfZZKFQ=",
       "url": "data/foods.csv"
     },
     {
-      "hash": "sha256-kxJcGYT9gQstjyrhDG0V8BMz2rIWz1xoYeKVUbcYOGI=",
+      "hash": "sha256-PJVjSpctfMJmXHD09Rkk2uzCn2HKVqHNGCHfP16yzn8=",
       "url": "data/foods.json"
     },
     {
@@ -354,7 +358,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Zlu7WUv7JXO4dy0e3eKWb03HnacvdYVO8sfuS7ez9FY=",
+      "hash": "sha256-OJ/+KWu40YCeTRTjaywa1ANYIJdn7bbhLOoYCy3zkFQ=",
       "url": "index.html"
     },
     {

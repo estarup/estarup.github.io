@@ -143,38 +143,6 @@
     "Fats": 50.0,
     "CaloriesPer100Gram": 610.0
   },
-  "23": {
-    "Id": 23,
-    "Name": "Kokosmælk, 17-19%",
-    "Proteins": 1.3,
-    "Carbs": 3.8,
-    "Fats": 18.0,
-    "CaloriesPer100Gram": 182.4
-  },
-  "24": {
-    "Id": 24,
-    "Name": "Mathilde, kakao",
-    "Proteins": 3.8,
-    "Carbs": 10.0,
-    "Fats": 0.5,
-    "CaloriesPer100Gram": 59.7
-  },
-  "25": {
-    "Id": 25,
-    "Name": "Kakao, letmælk",
-    "Proteins": 3.5,
-    "Carbs": 9.3,
-    "Fats": 1.6,
-    "CaloriesPer100Gram": 65.6
-  },
-  "26": {
-    "Id": 26,
-    "Name": "Mathilde, kakao, premium",
-    "Proteins": 3.5,
-    "Carbs": 12.0,
-    "Fats": 2.7,
-    "CaloriesPer100Gram": 86.3
-  },
   "4": {
     "Id": 4,
     "Name": "Smoothie 50/50, 1 stk",
@@ -202,6 +170,38 @@
   "22": {
     "Id": 22,
     "Name": "Palmeolie",
+    "Proteins": 0.0,
+    "Carbs": 0.0,
+    "Fats": 100.0,
+    "CaloriesPer100Gram": 900.0
+  },
+  "23": {
+    "Id": 23,
+    "Name": "Kakaosmør",
+    "Proteins": 0.0,
+    "Carbs": 0.0,
+    "Fats": 100.0,
+    "CaloriesPer100Gram": 900.0
+  },
+  "24": {
+    "Id": 24,
+    "Name": "Palmekerneolie",
+    "Proteins": 0.0,
+    "Carbs": 0.0,
+    "Fats": 100.0,
+    "CaloriesPer100Gram": 900.0
+  },
+  "25": {
+    "Id": 25,
+    "Name": "Jordnøddeolie",
+    "Proteins": 0.0,
+    "Carbs": 0.0,
+    "Fats": 100.0,
+    "CaloriesPer100Gram": 900.0
+  },
+  "26": {
+    "Id": 26,
+    "Name": "Torsk, levertran",
     "Proteins": 0.0,
     "Carbs": 0.0,
     "Fats": 100.0,
