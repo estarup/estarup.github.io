@@ -52,7 +52,7 @@ a, .btn-link {
 }
 
 .form-control {
-    position: fixed;       /* fixes container relative to viewport */
+    position: relative;       /* fixes container relative to viewport */
     bottom: 0;             /* stick to bottom */
 }
 
